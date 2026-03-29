@@ -26,4 +26,10 @@ Interactive Python game built using turtle graphics where players destroy random
 
 ## How to Run
 1. Make sure Python is installed
-2. Run the script:
+2. Run the script: asteroid_kaboom.py
+
+## What I Learned
+- Using turtle graphics for visual simulations
+- Handling user input and game loops
+- Applying randomness to create dynamic gameplay
+- Structuring a larger program with multiple components
